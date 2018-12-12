@@ -2,7 +2,7 @@
 
 Simple Easy To use PHP Uploader File From Url
 ## install Via composer :
-```composer require aleksnagornyi/image_upload_url```
+```composer require aleksnagornyi/image_upload_from_url```
 
 ### Simple File upload:
 ```php
