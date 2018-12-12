@@ -1,5 +1,5 @@
 {
-  "name": "aleksnagornyi/image_upload_url",
+  "name": "aleksnagornyi/image_upload_from_url",
   "description": "Upload umage from remote url",
   "keywords": ["upload", "image"],
   "license": "MIT",
