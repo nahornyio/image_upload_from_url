@@ -1,0 +1,22 @@
+{
+  "name": "aleksnagornyi/image_upload_url",
+  "description": "Upload umage from remote url",
+  "keywords": ["upload", "image"],
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Oleksanrd",
+      "email": "aleksnagornyi@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "phpunit/phpunit": ">=6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ImageUploadFromUrl\\":"src/"
+    }
+  }
+}
